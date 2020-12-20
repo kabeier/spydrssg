@@ -10,6 +10,7 @@ Spydr SSG is a simple site generator that will create a bootstrap website from y
 
 ## How to Use
 Options:
+
   --help                 Show help                                     
   --version              Show version number                          
   -f, --folder           absolute path of highest level folder containing
