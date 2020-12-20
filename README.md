@@ -2,6 +2,9 @@
 ## Simple bootstrap site Generator
 Spydr SSG is a simple site generator that will create a bootstrap website from your markdown files.
 
+## To install from npm
+npm install spydrssg
+
 ## To install from Git
 1. Clone the repo
 2. Open terminal in Folder
