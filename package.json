@@ -1,0 +1,36 @@
+{
+  "name": "spydrssg",
+  "version": "0.0.1",
+  "description": "builds static pages from markdown",
+  "main": "./bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabeier/spydrssg.git"
+  },
+  "keywords": [
+    "ssg",
+    "static",
+    "site",
+    "generator",
+    "sypdr"
+  ],
+  "author": "Kevin Beier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabeier/spydrssg/issues"
+  },
+  "homepage": "https://github.com/kabeier/spydrssg#readme",
+  "bin": {
+    "spydr": "./bin/index.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "marked": "^1.2.7",
+    "rimraf": "^3.0.2",
+    "yargs": "13.2"
+  }
+}
