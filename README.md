@@ -7,6 +7,7 @@ Spydr SSG is a simple site generator that will create a bootstrap website from y
 ## To install from npm
 
 npm install spydrssg
+run with command: spydr
 
 ## To install from Git
 
